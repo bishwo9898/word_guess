@@ -1,0 +1,14 @@
+python
+word
+puzzle
+potato
+suzy
+ambulance
+police
+goalie
+friend
+moodle
+summer
+headphone
+earphone
+tamato
